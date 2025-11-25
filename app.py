@@ -3,6 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import calculator
 import platform
+
 from matplotlib import font_manager, rc
 
 # Korean Font Support
@@ -216,7 +217,7 @@ if st.session_state.show_menu:
             st.session_state.show_menu = False
             st.rerun()
     
-    st.image("menu.png", caption="메뉴판", use_container_width=True)
+    st.image("menu.PNG", caption="메뉴판", use_container_width=True)
     st.stop()
 
 # --- Main Area: Menu Configuration ---

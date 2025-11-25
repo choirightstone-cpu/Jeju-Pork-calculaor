@@ -1,0 +1,36 @@
+{
+    "ewqewq": {
+        "total_people": 64,
+        "people_per_table": 4,
+        "budget_per_person": 35000,
+        "special_platter_price": 48000,
+        "special_platter_qty": 2,
+        "extra_meat_price": 14000,
+        "extra_meat_qty": 2,
+        "soju_price": 4000,
+        "soju_qty": 2,
+        "beer_price": 4000,
+        "beer_qty": 4,
+        "drinks_price": 2000,
+        "drinks_qty": 2,
+        "meal_price": 20000,
+        "meal_qty": 1
+    },
+    "55555": {
+        "total_people": 64,
+        "people_per_table": 4,
+        "budget_per_person": 35000,
+        "special_platter_price": 48000,
+        "special_platter_qty": 2,
+        "extra_meat_price": 14000,
+        "extra_meat_qty": 2,
+        "soju_price": 4000,
+        "soju_qty": 7,
+        "beer_price": 4000,
+        "beer_qty": 4,
+        "drinks_price": 2000,
+        "drinks_qty": 2,
+        "meal_price": 20000,
+        "meal_qty": 1
+    }
+}
